@@ -1,5 +1,5 @@
 ---
-title: "Safety Solution"
+title: "H.E.L.P. Safety Solution"
 ---
 
 # The Problem
@@ -29,7 +29,7 @@ To see more examples of preventative tragedies, click here.
 
 ## How ESS Can H.E.L.P.
 
-ESS’ mission is to protect roadway users by integrating H.E.L.P. technology into all 
+ESS’ mission is to protect roadway users by integrating an Hazard Enhanced Lighting Package, known as H.E.L.P. into all 
 vehicles on the road. This intelligent, yet simple solution is designed to protect 
 drivers and occupants in emergency situations involving one or more non-moving, disabled 
 vehicles. Using vehicle hardware and control systems already built into modern vehicles, 
