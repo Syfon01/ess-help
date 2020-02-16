@@ -2,7 +2,7 @@
 credit:
   source: FOX 8
   url: https://fox8.com/news/all-lanes-closed-on-i-71-south-in-strongsville/
-date: '2019-11-20'
+date: '2020-02-12'
 title: Three people struck by car after crash on I-71 in Strongsville
 ---
 STRONGSVILLE, Ohio (WJW) - The Ohio State Highway Patrol (OSHP) is investigating a crash that closed I-71 south in Strongsville Wednesday morning.
