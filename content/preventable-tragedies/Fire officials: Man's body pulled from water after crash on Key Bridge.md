@@ -1,7 +1,7 @@
 ---
 credit:
   source: WBALTV
-  url: https://abcnews4.com/news/local/1-killed-after-vehicle-is-struck-by-2-tractor-trailers-along-i-26
+  url: https://www.wbaltv.com/article/baltimore-beltway-closed-key-bridge-crash-investigation-mdta/30927773
 date: '2020-02-14'
 title: Fire officials: Man's body pulled from water after crash on Key Bridge
 ---
