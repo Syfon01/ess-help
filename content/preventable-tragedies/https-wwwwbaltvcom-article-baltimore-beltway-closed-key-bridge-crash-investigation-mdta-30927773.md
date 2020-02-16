@@ -2,7 +2,7 @@
 credit:
   source: WBALTV
   url: https://abcnews4.com/news/local/1-killed-after-vehicle-is-struck-by-2-tractor-trailers-along-i-26
-date: '2019-02-16'
+date: '2020-02-14'
 title: Fire officials: Man's body pulled from water after crash on Key Bridge
 ---
 MDTA police said the situation unfolded around 10 a.m. when a truck hit a disabled vehicle, highlighting the dangers of disabled vehicles on bridges.
