@@ -29,8 +29,8 @@
   <nav class="navbar navbar-expand-lg  main-nav py-3" id="navbar">
     <div class="container">
       <a class="navbar-brand" href="{{ .Site.BaseURL | relLangURL }}"><img src="{{ .Site.Params.logo | absURL }}"
-          alt="{{ .Site.Title }}" class="img-fluid"></a>
-      <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navigation"
+          alt="{{ .Site.Title }}" class="img-fluid logo-img"></a>
+      <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navigation" 
         aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
         <span class="ti-menu"></span>
       </button>
@@ -38,7 +38,7 @@
       <div class="collapse navbar-collapse" id="navigation">
         <ul class="navbar-nav ml-auto text-center text-lg-left">
           <li class="nav-item active"><a class="nav-link"
-              href="{{ .Site.BaseURL | relLangURL }}">{{ .Site.Params.Home }}</a></li>
+              href="{{ .Site.BaseURL | relLangURL }}" target="blank">{{ .Site.Params.Home }}</a></li>
           {{ range .Site.Menus.main }}
           {{ if .HasChildren }}
           <li class="nav-item dropdown">
@@ -54,7 +54,7 @@
           </li>
           {{ else }}
           <li class="nav-item">
-            <a class="nav-link" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+            <a class="nav-link" href="{{ .URL | absLangURL }}" target="blank">{{ .Name }}</a>
           </li>
           {{ end }}
           {{ end }}

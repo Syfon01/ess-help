@@ -8,8 +8,8 @@ contentDir = "content"
 
 # main menu
 [[menu.main]]
-name = "Our Mission"
-URL = "our-mission"
+name = "Our Company"
+URL = "https://www.ess-help.com/our-company"
 weight = 2
 
 #[[menu.main]]
@@ -19,8 +19,8 @@ weight = 2
 
 [[menu.main]]
 weight = 3
-name = "Safety Solution"
-URL = "safety-solution"
+name = "Technology"
+URL = "https://www.ess-help.com/technology"
 #hasChildren = true
 
 #  [[menu.main]]
@@ -39,14 +39,19 @@ URL = "safety-solution"
 #  URL = "service"
 
 [[menu.main]]
-name = "Preventable Tragedies"
-URL = "preventable-tragedies"
+name = "News"
+URL = "https://www.ess-help.com/news"
 weight = 4
+
+[[menu.main]]
+name = "Stories"
+URL = "https://www.ess-help.com/stories"
+weight = 5
 
 [[menu.main]]
 name = "Contact Us"
 URL = "contact-us"
-weight = 5
+weight = 6
 
 # footer menu
 #[[menu.footer]]
@@ -71,7 +76,7 @@ weight = 5
 
 #################### default parameters ################################
 [params]
-logo = "images/logo-no-slogan-150x65.png"
+logo = "images/ESS - Logo.png"
 # top header
 top_header = true
 # Meta data
